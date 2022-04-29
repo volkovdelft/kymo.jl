@@ -1,5 +1,5 @@
 //n_wKymo
-// Tt makes a kymograph of a line with width using Max Intensity
+// Tt makes a kymograph of a line with width using Average Intensity
 //
 // - Make a  line, choose the width
 // - Run the macro
